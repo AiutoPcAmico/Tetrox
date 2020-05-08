@@ -12,7 +12,7 @@
 -	Discord (comunicazione verbale e testuale)
 -	Hangout (Condivisione di Schermo)
 -	GitLab/GitHub (condivisione/versionamento codice) 
->	https://gitlab.com/FelappiAndrea2002/tetris-2.0 
+>	https://github.com/alessandro-2002/Tetrox
 -	Trello (To-do List, condivisione idee, gestione dei compiti e del lavoro) 
 >	https://trello.com/b/ICXs0fpS/tetrox20 
 
@@ -53,4 +53,6 @@ Progetto sviluppato nei mesi di Marzo e Aprile 2020.
 -	tone beep.wav by pan14
 >	https://freesound.org/people/pan14/sounds/263133/
 
+**Licenza**
+- Concesso il Licenza "GNU General Public License v3.0"
 
