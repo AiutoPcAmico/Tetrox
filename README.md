@@ -16,8 +16,8 @@
 -	Trello (To-do List, condivisione idee, gestione dei compiti e del lavoro)
 
 
-**Descrizione del Programma**
-Il programma è una semplice rivisitazione del noto “Tetris”, gioco dove lo scopo è quello di allineare i blocchi in discesa (di diverse forme) ed eliminarne più righe possibile. Ogni 10 righe eliminate si avanza di livello, la velocità di discesa dei blocchi aumenta all'aumentare del livello. In Tetris non esiste una “vera e propria” vittoria, il programma termina solo nel caso si riempia almeno una colonna fino in cima, in tal caso verrà decretato il game over. La sfida è riuscire a totalizzare il massimo dei punti possibili, sia come proprio record personale che con gli amici!
+**Descrizione del Programma:**
+- Il programma è una semplice rivisitazione del noto “Tetris”, gioco dove lo scopo è quello di allineare i blocchi in discesa (di diverse forme) ed eliminarne più righe possibile. Ogni 10 righe eliminate si avanza di livello, la velocità di discesa dei blocchi aumenta all'aumentare del livello. In Tetris non esiste una “vera e propria” vittoria, il programma termina solo nel caso si riempia almeno una colonna fino in cima, in tal caso verrà decretato il game over. La sfida è riuscire a totalizzare il massimo dei punti possibili, sia come proprio record personale che con gli amici!
 
 
 Progetto sviluppato nei mesi di Marzo e Aprile 2020.
