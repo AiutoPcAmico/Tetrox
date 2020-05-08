@@ -1,4 +1,4 @@
-# TETROX Revolution
+# TETROX
 
 **Sviluppatori:**
 -	Baisini Cayden (struttura base, GUI, disegni blocchi, musica e grafica)
