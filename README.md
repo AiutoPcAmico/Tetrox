@@ -13,8 +13,7 @@
 -	Hangout (Condivisione di Schermo)
 -	GitLab/GitHub (condivisione/versionamento codice) 
 >	https://github.com/alessandro-2002/Tetrox
--	Trello (To-do List, condivisione idee, gestione dei compiti e del lavoro) 
->	https://trello.com/b/ICXs0fpS/tetrox20 
+-	Trello (To-do List, condivisione idee, gestione dei compiti e del lavoro)
 
 
 **Descrizione del Programma**
